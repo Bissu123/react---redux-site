@@ -1,0 +1,49 @@
+.mb-3 {
+  margin-bottom: 0.5rem;
+}
+
+/* Form */
+
+.form-label {
+  display: inline-block;
+  width: 10rem;
+}
+
+.form-tausta {
+  background-color: #355a8c;
+  border-color: #ffffff;
+  border-radius: 2px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.v-teksti {
+  color: #ffffff;
+}
+
+.form-section {
+  padding: 0.5rem;
+}
+
+/* View */
+
+.s-teksti {
+  color: #355a8c;
+}
+
+.view-section {
+  padding: 0.5rem;
+}
+
+.view-tausta {
+  background-color: #ffffff;
+  border-color: #355a8c;
+  border-radius: 2px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.viewTeksti {
+  display: inline-block;
+  width: 10rem;
+}

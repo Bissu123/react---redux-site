@@ -1,0 +1,19 @@
+.button {
+  width: 200px;
+  height: 200px;
+  float: left;
+  font-size: 125px;
+  margin: 15px 15px;
+  padding: 10px 0px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+  border: solid black 1px;
+  box-shadow: 5px 10px 18px black;
+}
+
+.active {
+  transform: scale(1.05);
+  box-shadow: 0 0 2rem #fff;
+  opacity: 1;
+}

@@ -1,0 +1,15 @@
+.lomake {
+    display: grid;
+    place-items: center;
+}
+
+.lukuLomake {
+    display: flex;
+    flex-direction: column;
+}
+
+.vierekkainHyvin {
+    display: flex;
+    width: 20rem;
+    justify-content: space-between;
+}

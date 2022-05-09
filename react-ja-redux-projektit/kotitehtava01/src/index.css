@@ -1,0 +1,60 @@
+/* .vierekkain {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.laatikko {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 35px;
+
+    background-color: rgb(237,125,49);
+    width: 200px;
+    height: 200px;
+
+    box-shadow: 1px 1px 9px 2px rgba(0,0,0,0.5);
+}
+
+h3, h4 {
+    margin: 0;
+    padding: 0;
+    color: white;
+} */
+
+
+
+.App {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.person {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 35px;
+
+    background-color: rgb(237,125,49);
+    width: 200px;
+    height: 200px;
+
+    box-shadow: 1px 1px 9px 2px rgba(0,0,0,0.5);
+}
+
+.person dt {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+dt, dd {
+    margin: 0;
+    padding: 0;
+    color: white;
+}
