@@ -1,8 +1,8 @@
 import './App.css';
 
 const user = {
-  firstName: 'Mio',
-  lastName: 'Julkunen'
+  firstName: 'bishwas',
+  lastName: 'parajuli'
 }
 
 const formatName = () => {
