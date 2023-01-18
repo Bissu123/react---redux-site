@@ -2,7 +2,7 @@ import './App.css';
 import Person from './person/person.js';
 
 const personel = [
-  { name: "Mio", age: 17},
+  { name: "bishwas", age: 19},
   { name: "Jaska", age: 18},
   { name: "Jorma", age: 19}
 ]

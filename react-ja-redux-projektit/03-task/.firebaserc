@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "react-ja-redux-kaikki"
+  },
+  "targets": {
+    "react-ja-redux-kaikki": {
+      "hosting": {
+        "react-ja-redux-kaikki": [
+          "03-task"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "target": "build",
+    "public": "build/02-task",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
